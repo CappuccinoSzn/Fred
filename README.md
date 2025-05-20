@@ -1,6 +1,6 @@
 # 👋 Fred Martin's Portfolio
 
-🚀 *Live Site:* [https://cappuccinoszn.github.io/Portfolio/]
+🚀 *Live Site:* [https://github.com/CappuccinoSzn/Fred]
 
 Welcome to my personal portfolio! I'm a passionate *Web and Graphic Designer* focused on creating sleek, modern, and interactive digital experiences. From logos to websites, I bring ideas to life with creativity and code. 🎨💻
 
